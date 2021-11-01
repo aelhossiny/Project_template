@@ -1,0 +1,4 @@
+results/*/logs
+results/*/objects/
+results/*/plots/
+results/*/tables
